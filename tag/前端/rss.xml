@@ -1,15 +1,20 @@
 <?xml version="1.0"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://byicon.github.io</id>
-    <title>ioby-blog</title>
-    <link href="https://byicon.github.io" />
-    <updated>2020-06-03T13:12:48.000Z</updated>
-    <category term="前端" />
-    <entry>
-        <id>https://byicon.github.io/2020/06/03/web/web/</id>
-        <title>前端工程化</title>
-        <link rel="alternate" href="https://byicon.github.io/2020/06/03/web/web/"/>
-        <content type="html">&lt;h1 id=&#34;前端工程化历史&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#前端工程化历史&#34;&gt;#&lt;/a&gt; 前端工程化历史：&lt;/h1&gt;
+<rss version="2.0">
+    <channel>
+        <title>ioby-blog • Posts by &#34;前端&#34; tag</title>
+        <link>https://byicon.github.io</link>
+        <description></description>
+        <language>zh-CN</language>
+        <pubDate>Wed, 03 Jun 2020 21:12:48 +0800</pubDate>
+        <lastBuildDate>Wed, 03 Jun 2020 21:12:48 +0800</lastBuildDate>
+        <category>前端</category>
+        <item>
+            <guid isPermalink="true">https://byicon.github.io/2020/06/03/web/web/</guid>
+            <title>前端工程化</title>
+            <link>https://byicon.github.io/2020/06/03/web/web/</link>
+            <category>前端</category>
+            <pubDate>Wed, 03 Jun 2020 21:12:48 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;前端工程化历史&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#前端工程化历史&#34;&gt;#&lt;/a&gt; 前端工程化历史：&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;javascrip 诞生到 ajax 出现前 ： 前后端不分离，服务端渲染，js 仅用于处理页面交互；&lt;/p&gt;
@@ -43,8 +48,7 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;总结： 提升前端开发效率，开发规范，访问性能等。&lt;/strong&gt;&lt;/p&gt;
-</content>
-        <category term="前端" />
-        <updated>2020-06-03T13:12:48.000Z</updated>
-    </entry>
-</feed>
+ ]]></description>
+        </item>
+    </channel>
+</rss>
